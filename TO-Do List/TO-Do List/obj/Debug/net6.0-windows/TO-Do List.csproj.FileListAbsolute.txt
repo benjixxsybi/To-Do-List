@@ -1,0 +1,6 @@
+C:\Users\ben\source\repos\TO-Do List\TO-Do List\obj\Debug\net6.0-windows\TO_Do_List.Form1.resources
+C:\Users\ben\source\repos\TO-Do List\TO-Do List\obj\Debug\net6.0-windows\TO-Do List.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\TO-Do List\TO-Do List\obj\Debug\net6.0-windows\TO-Do List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ben\source\repos\TO-Do List\TO-Do List\obj\Debug\net6.0-windows\TO-Do List.AssemblyInfoInputs.cache
+C:\Users\ben\source\repos\TO-Do List\TO-Do List\obj\Debug\net6.0-windows\TO-Do List.AssemblyInfo.cs
+C:\Users\ben\source\repos\TO-Do List\TO-Do List\obj\Debug\net6.0-windows\TO-Do List.csproj.CoreCompileInputs.cache
